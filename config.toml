@@ -1,0 +1,15 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'pl-pl'
+title = 'Global Azure Warsaw'
+
+[[module.imports]]
+    path = "github.com/willfaught/paige"
+
+[paige.analytics]
+    disable = false
+
+[paige]
+    color = "#0063af"
+
+[authors.will-faught]
+    name = "Piotr Wachulec"
