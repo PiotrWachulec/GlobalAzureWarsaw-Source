@@ -18,13 +18,13 @@ Oczywiście nie możemy pominąć Global Azure w 2023 roku! Dlatego też święt
 
 Poznaj naszych prelegentów!
 
-{{< sessionize_speakers >}} 
+{{< sessionize_speakers_wall >}}
+
+Więcej informacji znajdziesz w zakładce [Prelegenci]({{< ref "/speakers" >}}).
 
 ## Prezentacje
 
-Zobacz, jakie sesje przygotowali:
-
-{{< sessionize_sessions >}}
+Na stronie [Sesje]({{< ref "/speeches" >}}) znajdziesz więcej informacji o sesjach, które zostały przygotowane przez naszych wspaniałych prelegentów!
 
 ## Rozkład jazdy
 
@@ -32,13 +32,13 @@ Wstępna agenda
 
 > Rozkład agendy może ulec zmianie! Po zapisaniu się na wydarzenie dostaniesz powiadomienie, kiedy ostateczna agenda będzie potwierdzona!
 
-{{< sessionize_schedule >}}
+Na stronie [Agenda]({{< ref "/agenda" >}}) znajdziesz więcej informacji o dokładnym rozkładzie jazdy na nasze wydarzenie!
 
 # Część onsite
 
 W ramach części onsite przejdziemy przez wprowadzenie do Bicep - od tworzenia podstawowych szablonów, poprzez budowanie większych infrastrucktur, automatyzacje i pipeline CI/CD, modularyzację oraz kilka smaczków ułatwiających pracę.
 
-> Liczba miejsc jest ograniczona. **Dlatego gorąca prośba - jeśli wiesz, że nie dasz rady wziąć udziału w warsztatach - daj znać! Niech ktoś inny skorzysta! Dokładna lokalizacja będzie podana w ciągu najbliszych kilku dni (centrum Warszawy).
+> Liczba miejsc jest ograniczona. **Dlatego gorąca prośba - jeśli wiesz, że nie dasz rady wziąć udziału w warsztatach - daj znać! Niech ktoś inny skorzysta! Dokładna lokalizacja będzie podana w ciągu najbliszych kilku dni (centrum Warszawy).**
 
 # Pomagamy!
 
@@ -48,13 +48,12 @@ Chcemy przy okazji dobrej zabawy robić coś dobrego. Dlatego też w czasie traw
 
 Dołącz do nas warszawskiej edycji Global Azure!
 
+{{< evenea_registration >}}
+
 # Kontakt
 
 Potrzebujesz więcej informacji? Pisz na [piotr@wachulec.me](mailto:piotr@wachulec.me) albo na [LinkedIn](https://www.linkedin.com/in/piotrwachulec/)!
 
-{{< evenea_registration >}}
-
 # Do zobaczenia!
 
 Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więcej, tym lepsze wydarzenie!
-
