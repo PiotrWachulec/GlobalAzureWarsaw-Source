@@ -50,6 +50,20 @@ Dołącz do nas warszawskiej edycji Global Azure!
 
 {{< evenea_registration >}}
 
+# Partnerzy
+
+Wydarzenie nie odbyłoby się bez pomocy partnerów! W tym roku towarzyszą nam:
+
+- [Wydział Elektryczny Politechniki Warszawskiej](https://www.ee.pw.edu.pl/)
+
+> Od wielu lat kształcimy magistrów inżynierów i inżynierów elektryków, automatyków i informatyków, fachowców cenionych w kraju i za granicą. Liczne kontakty z uczelniami zagranicznymi oraz nowoczesne programy nauczania gwarantują, że wybierając studia na naszym Wydziale będziesz poszukiwanym na rynku pracy specjalistą. Wydział współpracuje z wieloma przedsiębiorstwami w kraju i zagranicą. Wielu studentów podejmuje pracę już na ostatnich latach studiów zwiększając swoje szanse na rynku pracy.
+
+- [Nordcloud](https://nordcloud.com/)
+
+> Nordcloud is a European leader in cloud implementation, application development, managed services and training. We’re triple certified and featured in Gartner’s Magic Quadrant.
+
+{{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="42rem" loading="eager" process="webp" src="/images/GlobalAzure2023WarsawSocialBannerBackground.png" width="100%" >}}
+
 # Kontakt
 
 Potrzebujesz więcej informacji? Pisz na [piotr@wachulec.me](mailto:piotr@wachulec.me) albo na [LinkedIn](https://www.linkedin.com/in/piotrwachulec/)!
