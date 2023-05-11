@@ -38,10 +38,10 @@ Znajdź aktualny slot poniżej i miłego oglądania!
     - [Global Azure 2023 Warsaw Edition - Friday afternoon slot](https://www.facebook.com/events/546487267655147/)
 - Twitter [PiotrWachulec](https://twitter.com/piotrwachulec)    
 - LinkedIn:
-    - [Global Azure 2023 Warsaw Edition - Thursday morning slot](https://www.facebook.com/events/1410572326424032)
-    - [Global Azure 2023 Warsaw Edition - Thursday afternoon slot](https://www.facebook.com/events/1010482123219116/)
-    - [Global Azure 2023 Warsaw Edition - Friday morning slot](https://www.facebook.com/events/143511508582333/)
-    - [Global Azure 2023 Warsaw Edition - Friday afternoon slot](https://www.facebook.com/events/546487267655147/)
+    - [Global Azure 2023 Warsaw Edition - Thursday morning slot](https://www.linkedin.com/events/7060881523603832832/)
+    - [Global Azure 2023 Warsaw Edition - Thursday afternoon slot](https://www.linkedin.com/events/7060891406487175168/)
+    - [Global Azure 2023 Warsaw Edition - Friday morning slot](https://www.linkedin.com/events/7060893772036943872/)
+    - [Global Azure 2023 Warsaw Edition - Friday afternoon slot](https://www.linkedin.com/events/7060899996111372288/)
 - YouTube:
     - [Piotr Wachulec On Software](https://www.youtube.com/channel/UC6L70fSSgyXBscFTgCnBLWg):
         - [Global Azure 2023 Warsaw Edition - Thursday morning slot](https://youtube.com/live/u33S3GxETkY)
