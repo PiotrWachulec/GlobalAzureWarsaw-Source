@@ -49,7 +49,7 @@ Znajdź aktualny slot poniżej i miłego oglądania!
         - [Global Azure 2023 Warsaw Edition - Friday morning slot](https://youtube.com/live/KRzPr5VR8LY)
         - [Global Azure 2023 Warsaw Edition - Friday afternoon slot](https://youtube.com/live/Ouq-lakBCeY)
     - [Global Azure Warsaw](https://www.youtube.com/channel/UCS4gLql9d_r0VMP1FlmIHFw):
-        - [Global Azure 2023 Warsaw Edition - Thursday morning slot](https://youtube.com/live/VNcuFg2ofxA)
+        - [Global Azure 2023 Warsaw Edition - Thursday morning slot](https://youtube.com/live/ik9GvAsap84)
         - [Global Azure 2023 Warsaw Edition - Thursday afternoon slot](https://youtube.com/live/XPw0JlvG5WE)
         - [Global Azure 2023 Warsaw Edition - Friday morning slot](https://youtube.com/live/r1wKNaBqm7s)
         - [Global Azure 2023 Warsaw Edition - Friday afternoon slot](https://youtube.com/live/VNcuFg2ofxA)
